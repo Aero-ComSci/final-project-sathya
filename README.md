@@ -15,7 +15,10 @@ https://github.com/user-attachments/assets/e75d813b-9f43-47ba-bd68-a76a89acab66
 
 
 
-*The 3 code samples
+
+**The 3 code samples**
+______________________
+
 #Loop
 ''' 
  while True:
