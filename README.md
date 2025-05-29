@@ -14,32 +14,33 @@ https://github.com/user-attachments/assets/e75d813b-9f43-47ba-bd68-a76a89acab66
  The program automates the classic game of Rock, Paper, Scissors by handling the computer's random choices and determining the winner of each round. It also automatically tracks and updates the scores for both the player and the computer throughout the game.
 
 
-
-
-**The 3 code samples**
+***CodeSamples***
 ______________________
 
-#Loop
-''' 
+
+```
+#The Loop
  while True:
         x = input("Enter Rock, Paper, or Scissors (R, P, S):  ").strip().lower()
         if x in ["r", 'p', 's']:
             return x
         else:
             print("Invalid input! Please Try Again!")
-'''
+```
 
-#Collection of a list
 
-'''
+
+```
+#The List & usage part
+
     compChoice = ["r", "p", "s"]
     x = random.choice(compChoice)
     
-'''
+```
 
+```
 #Using a function (Showing main from the code)
 
-'''
 def main(): 
     score = 0
     compScore = 0
@@ -55,7 +56,6 @@ def main():
     
 main()
  
-
-'''
+```
 
 
