@@ -1,6 +1,10 @@
 *code is all given (day 1 progress, day 2 progress, final code) in python files in this repository*
 #here are screenshots of the code, video became too big :( 
 
+*I wanted to use this code to show how I can fix the combo menu grade i have currently. Right now i have a mid grade because of minor errors on my combo menu code and wanted to show how i utilized functions, lists, and loops in this project to see if i can get a better grade on that. 
+
+*I also got a 2.4/3 on 3.1.1 and 3.1.2 and i feel like this program showcases the skills needed to show how I have grown with functions and printing and basic python. 
+
 <img width="369" alt="Screenshot 2025-05-29 at 10 39 57 AM" src="https://github.com/user-attachments/assets/453efa52-0530-4ecf-b090-06fb0e7639e2" />
 
 <img width="373" alt="Screenshot 2025-05-29 at 10 40 09 AM" src="https://github.com/user-attachments/assets/276a3605-0bee-4649-af01-b47e72ef0af7" />
