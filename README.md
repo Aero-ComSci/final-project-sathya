@@ -1,4 +1,4 @@
-#code is all given (day 1 progress, day 2 progress, final code) in python files in this repository
+*code is all given (day 1 progress, day 2 progress, final code) in python files in this repository*
 #here are screenshots of the code, video became too big :( 
 
 <img width="369" alt="Screenshot 2025-05-29 at 10 39 57 AM" src="https://github.com/user-attachments/assets/453efa52-0530-4ecf-b090-06fb0e7639e2" />
