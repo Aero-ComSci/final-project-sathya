@@ -7,11 +7,13 @@
 
 https://github.com/user-attachments/assets/e75d813b-9f43-47ba-bd68-a76a89acab66
 
-*Who is this program for?
-#This program is designed for anyone looking for a simple and quick way to play Rock, Paper, Scissors. It provides a straightforward interactive experience for a single player against a computer opponent.
+**Who is this program for:**
+ This program is designed for anyone looking for a simple and quick way to play Rock, Paper, Scissors. It provides a straightforward interactive experience for a single player against a computer opponent.
 
-*What does the program do and what does it automate?
-#The program automates the classic game of Rock, Paper, Scissors by handling the computer's random choices and determining the winner of each round. It also automatically tracks and updates the scores for both the player and the computer throughout the game.
+**What does the program do and what does it automate:**
+ The program automates the classic game of Rock, Paper, Scissors by handling the computer's random choices and determining the winner of each round. It also automatically tracks and updates the scores for both the player and the computer throughout the game.
+
+
 
 *The 3 code samples
 #Loop
